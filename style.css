@@ -1,6 +1,11 @@
-body {
+header {
     background-color: #F7F0BA;
     height: 177px;
     width: 100%;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+body {
+    background-color: #53A08E;
 }
