@@ -5,6 +5,10 @@ header {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+.cabecalho {
+    width: 207px;
+    height: 150px;
+}
 
 body {
     background-color: #53A08E;
