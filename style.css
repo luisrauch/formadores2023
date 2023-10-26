@@ -29,3 +29,9 @@ p{
 #paragrafo2{
     color: aqua;
 }
+
+.destaque{
+    color: black;
+    background-color: white;
+    text-align: center;
+}
