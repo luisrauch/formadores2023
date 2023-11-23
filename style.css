@@ -1,5 +1,7 @@
 header {
     background-color: #860A35;
+    text-align: center;
+    color: #F3F3F3;
     height: 20px;
     width: 100%;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -46,6 +48,8 @@ p{
 
 footer {
     background-color: #860A35;
+    text-align: center;
+    color: #F3F3F3;
     height: 20px;
     width: 100%;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
