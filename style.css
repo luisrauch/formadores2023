@@ -1,6 +1,6 @@
 header {
     background-color: #860A35;
-    height: 177px;
+    height: 20px;
     width: 100%;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
@@ -42,4 +42,11 @@ p{
 .destaque{
     color: #AF2655;
     text-align: center;
+}
+
+footer {
+    background-color: #860A35;
+    height: 20px;
+    width: 100%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
