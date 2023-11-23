@@ -28,19 +28,19 @@ img {
 }
 
 p{
-    color: white;
+    color: #AF2655;
 }
 
 #paragrafo1{
-    color: red;
+    color: #AF2655;
 }
 
 #paragrafo2{
-    color: aqua;
+    color: #AF2655;
 }
 
 .destaque{
-    color: black;
+    color: #AF2655;
     background-color: white;
     text-align: center;
 }
